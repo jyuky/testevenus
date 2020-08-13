@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Metropolis-Extralight";
+  src: url(../metropolis/Metropolis-ExtraLight.otf);
+}
+@font-face {
+  font-family: "Metropolis-Black";
+  src: url(../metropolis/Metropolis-Black.otf);
+}
+@font-face {
+  font-family: "Metropolis-Medium";
+  src: url(../metropolis/Metropolis-Medium.otf);
+}
+@font-face {
+  font-family: "Metropolis-Regular";
+  src: url(../metropolis/Metropolis-Regular.otf);
+}
+
+/*# sourceMappingURL=fonts.css.map */
